@@ -1,0 +1,22 @@
+package day10_controlFlowStatement_part4;
+
+public class Task_SumOfEvenAndOddNumbers {
+
+	public static void main(String[] args) {
+		
+		int sumEven=0;
+		int sumOdd=0;
+		
+		for(int i=1; i<=100; i++) {
+			if(i%2==0) {
+				sumEven=sumEven+i;
+				
+			}else {
+				
+			}
+			System.out.println("Sum of evensumEven);
+		}
+
+	}
+
+}

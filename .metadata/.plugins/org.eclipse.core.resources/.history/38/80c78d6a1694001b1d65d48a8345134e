@@ -1,0 +1,11 @@
+package day10_controlFlowStatement_part4;
+
+public class Task41_OddNumbers {
+
+	public static void main(String[] args) {
+		
+		for(int i=5; i<=140 i++)
+
+	}
+
+}
